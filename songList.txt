@@ -1,6 +1,6 @@
 Song A
 Song B
-Song D
 Song C
+Song D
 Song E
 Song F
